@@ -1,0 +1,25 @@
+body{
+    background-color:#DDC7D4 ;
+}
+h1{
+    background-color: black;
+    color: yellow;
+    width: 400px;
+}
+p{
+    background-color: black; 
+    color: white;
+    width: 400px;
+}
+button{
+    background-color: blue;
+    padding-inline: 15px ;
+    padding-block: 10px;
+    color: white;
+    margin: 5px;
+}
+Ul li{
+    list-style: none;
+    float: left;
+    padding: 5px;
+}
